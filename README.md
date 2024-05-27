@@ -15,7 +15,10 @@
   Sie singt von lauter Liebe,<br>
   Ich hör’ es sogar im Traum.<br>
   <br>
-  — <em>Heinrich Heine, Entstehungsdatum: 1823–1824</em>
+  — <em>
+    Heinrich Heine, Entstehungsdatum: 1823–1824<br>
+    Johannes Brahms, Vier Lieder, Nr. 1, Op. 96, 1884
+  </em>
 </p>
 
 ## I play
