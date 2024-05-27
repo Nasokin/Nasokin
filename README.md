@@ -15,16 +15,16 @@
   Sie singt von lauter Liebe,<br>
   Ich hör’ es sogar im Traum.<br>
   <br>
-  — <em>
-    Heinrich Heine, Entstehungsdatum: 1823–1824<br>
-    Johannes Brahms, Vier Lieder, Nr. 1, Op. 96, 1884
+  <em>
+    Gedicht von Heinrich Heine (1797 - 1856)<br>
+    Vier Lieder Nr. 1, Op. 96 von Johannes Brahms (1833 -1897)
   </em>
 </p>
 
 ## I play
   ![Adobe Audition](https://img.shields.io/badge/Adobe_Audition-9999FF?logo=Adobe-Audition&logoColor=white)
   ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?logo=Adobe-Illustrator&logoColor=white)
-  ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?logo=Adobe-Lightroom-CC&logoColor=white)
+  ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?logo=Adobe-Lightroom&logoColor=white)
   ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=Adobe-Photoshop&logoColor=white)
   ![AMD Ryzen7 5800X](https://img.shields.io/badge/AMD_Ryzen7_5800X-ED1C24.svg?logo=amd&logoColor=white)
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)
@@ -41,7 +41,6 @@
   ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
   ![Meta Quest 2](https://img.shields.io/badge/Meta_Quest_2-%230467DF.svg?logo=Meta&logoColor=white)
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft&logoColor=white)
-  ![Monero](https://img.shields.io/badge/Monero-FF6600?logo=monero&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
@@ -70,11 +69,12 @@
   [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/omawaritour)
   ![JCB](https://img.shields.io/badge/JCB-003399?logo=jcb&logoColor=white)
   ![MasterCard](https://img.shields.io/badge/MasterCard-EB001B?logo=mastercard&logoColor=fff)
+  ![Monero](https://img.shields.io/badge/Monero-FF6600?logo=monero&logoColor=white)
   ![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)
   ![Revolut](https://img.shields.io/badge/Revolut-%23F5F5F5.svg?logo=revolut&logoColor=black)
   ![Visa](https://img.shields.io/badge/Visa-1A1F71?logo=visa&logoColor=fff)
   ![Wise](https://img.shields.io/badge/Wise-394e79?logo=wise&logoColor=00B9FF)
 
-## Btw
+## De plus
 
   I am the admin of [🏳️‍🌈uOsaka Libra🏳️‍🌈](https://osakalibra.github.io/) uwu
