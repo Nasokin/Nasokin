@@ -74,4 +74,4 @@
 
 ## Btw
 
-  I am the admin of ![🏳️‍🌈uOsaka Libra🏳️‍🌈](https://osakalibra.github.io/) ~
+  I am the admin of [🏳️‍🌈uOsaka Libra🏳️‍🌈](https://osakalibra.github.io/) uwu
