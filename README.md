@@ -76,7 +76,7 @@
   ![YAML](https://img.shields.io/badge/YAML-%23ffffff.svg?logo=yaml&logoColor=151515)
 
 ## Find me on
-  [![GitHub](https://img.shields.io/badge/GitHub-100000.svg?logo=github&logoColor=white)](https://github.com/Nasokin/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000.svg?logo=github&logoColor=white)](https://github.com/nasokin/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/omawaritour)
   [![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/heshisn/)
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/s6fp2h7d8ffmifx5a7y2bthek?si=31868c900c4b4b2c)
