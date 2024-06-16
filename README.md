@@ -71,6 +71,7 @@
   ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB)
   ![Shell](https://img.shields.io/badge/Shell-%23121011.svg?logo=gnu-bash&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+  ![Typst](https://img.shields.io/badge/Typst-000000.svg?logo=typst&logoColor=white)
   ![Unity](https://img.shields.io/badge/Unity-100000.svg?logo=unity&logoColor=white)
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
   ![YAML](https://img.shields.io/badge/YAML-%23ffffff.svg?logo=yaml&logoColor=151515)
@@ -107,4 +108,16 @@
 
 <p align="center">
   <em>I'm pretty sure that those circuit experiments are plotting against me.</em>
+</p>
+
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img src= "https://github.com/Nasokin/Nasokin/assets/25531203/5cd98108-f4d7-4cfa-b29f-d4e4ec7d726e" width="500">
+</p>
+
+<p align="center">
+  <em>"We only live so long, we just keep LaTeX." — Gilbert STRANG</em>
 </p>
