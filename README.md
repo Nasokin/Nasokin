@@ -65,7 +65,7 @@
   ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E)
-  ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=phpstorm&logoColor=white)
+  ![WebStorm](https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white)
   ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB)
