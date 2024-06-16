@@ -119,5 +119,5 @@
 </p>
 
 <p align="center">
-  <em>"We only live so long, we just keep LaTeX." — Gilbert STRANG</em>
+  <em>"We only live so long, we just skip LaTeX." — Gilbert STRANG</em>
 </p>
