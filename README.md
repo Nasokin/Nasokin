@@ -2,20 +2,20 @@
 
 
 <p align="center">
-  <i><b>BA (Bachelor of Anxiety) with Dishonours and Helplessness</b></i>, The University of Osaka
+  <i><b>BA (Bachelor of Anxiety) with Dishonours and Helplessness</b></i>, Osaka University
 </p>
 
 I'm dropping out of this cursed school.
 
 First comes the administrator, cloaked in institutional helplessness, murmuring “a PITY, truly”—
 not with sympathy, but with that polished tone that says “this is how the system works, and I merely serve it.”
-Then follows the academic, who—faced with your confusion—leans in and says,
-“Have you read the manual again—properly?”
+Then follows the academic, who faced with your confusion, leans in and says,
+“Have you read the manual again, properly?”
 with the quiet disdain of someone who believes accessibility is heresy,
 and that understanding must be earned through suffering.
 Going to class feels like paying to be prosecuted.
 
-You intellectual masochists can enjoy your rituals—I quit.
+You intellectual masochists can enjoy your rituals. I quit.
 
 
 # Forever Cherished 
@@ -46,7 +46,7 @@ You intellectual masochists can enjoy your rituals—I quit.
 </p>
 
 ## I ride
-  ![Honda](https://img.shields.io/badge/HONDA_CBR250R_(2011)-E40521?style=flat&logo=honda&logoColor=white)
+  I rode ![Honda](https://img.shields.io/badge/HONDA_CBR250R_(2011)-E40521?style=flat&logo=honda&logoColor=white) from 26 Jan 2024 to 04 Aug 2025.
 
 ## I use
   ![AMD](https://img.shields.io/badge/AMD_Ryzen_7_5800X-ED1C24.svg?logo=amd&logoColor=white)
@@ -56,7 +56,6 @@ You intellectual masochists can enjoy your rituals—I quit.
   ![NVIDIA](https://img.shields.io/badge/NVIDIA_GeForce_GTX_970-76B900?logo=nvidia&logoColor=white)
   ![iPhone](https://img.shields.io/badge/iPhone_15-000000?logo=apple&logoColor=white)
   ![Google Home](https://img.shields.io/badge/Google_Home_Mini-4285F4?logo=googlehome&logoColor=white)
-  ![Quest 2](https://img.shields.io/badge/Quest_2-%230467DF.svg?logo=Meta&logoColor=white)
   ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff)
   ![KDE](https://img.shields.io/badge/KDE-1D99F3?logo=kde&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-003399?logo=windows-xp&logoColor=white)
@@ -118,4 +117,4 @@ You intellectual masochists can enjoy your rituals—I quit.
 
 ## De plus
 
-  I'm the admin of [🏳️‍🌈uOsaka Libra🏳️‍🌈](https://osakalibra.github.io/), for now.
+  I was the admin of [🏳️‍🌈uOsaka Libra🏳️‍🌈](https://osakalibra.github.io/).
